@@ -24,7 +24,7 @@ library(lubridate)
 library(beepr)
 ```
 
-# Authenticate for the First Time: If this is your first time using googlesheets4, you need to allow R to access your Google account.
+#Authenticate for the First Time: If this is your first time using googlesheets4, you need to allow R to access your Google account.
 ```{r}
 gs4_auth()
 ```
